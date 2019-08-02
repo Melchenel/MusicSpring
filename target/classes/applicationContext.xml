@@ -11,4 +11,10 @@
           class="com.example.ann.RockMusic">
     </bean>
 
+    <bean id = "musicPlayer"
+            class="com.example.ann.MusicPlayer">
+        <constructor-arg ref="musicBean"/>
+
+    </bean>
+
 </beans>
