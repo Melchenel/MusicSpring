@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c45bd54-747b-4818-8b4e-445b044230ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ann/PopMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ann/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ann/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ann/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ann/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ann/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ann/MusicPlayer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ann/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ann/TestSpring.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564648833251</updated>
       <workItem from="1564648837989" duration="4530000" />
-      <workItem from="1564733773052" duration="3248000" />
+      <workItem from="1564733773052" duration="6581000" />
     </task>
     <servers />
   </component>
