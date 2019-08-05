@@ -12,7 +12,10 @@
     </bean>
 
     <bean id="musicBean2"
-          class="com.example.ann.ClassicalMusic">
+          class="com.example.ann.ClassicalMusic"
+          init-method="doMyInit"
+          destroy-method="doMyDestroy"
+          factory-method="getClassicalMusic">
     </bean>
 
     <bean id="musicBean3"
@@ -21,7 +24,8 @@
 
 
     <bean id = "musicPlayer"
-            class="com.example.ann.MusicPlayer">
+            class="com.example.ann.MusicPlayer"
+    scope="prototype">
         <property name="musicList">
             <list>
                 <ref bean="musicBean1"/>
